@@ -82,3 +82,6 @@
         )
     )
 )
+
+
+;; further part of the contract
